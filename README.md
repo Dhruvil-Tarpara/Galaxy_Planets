@@ -1,4 +1,4 @@
-# galaxy
+# Galaxy App
 
 Explore solar system .
 
